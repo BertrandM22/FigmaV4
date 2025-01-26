@@ -33,16 +33,15 @@ Un code bien organisé, facile à comprendre et à maintenir, avec une structure
 
 🛠️ Attention aux détails visuels :
 Tout le projet a été conçu en prenant soin des petits détails, garantissant que l'apparence de chaque élément soit précise et fidèle à la maquette originale.
+## Lien:
+
+[ICI](https://figma-v4.vercel.app/)
 
 ## 🛠️ Installation & Utilisation
 1. Cloner le dépôt :
 ```
 git clone https://github.com/BertrandM22/FigmaV4.git
-<<<<<<< HEAD
 
-=======
 ```
->>>>>>> fe0da497ce0909beaa98a272962224d4c45c57b9
-
 2. Ouvrir le projet :
 Ouvre le fichier index.html dans ton navigateur préféré pour voir le projet.
