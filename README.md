@@ -38,7 +38,7 @@ Tout le projet a été conçu en prenant soin des petits détails, garantissant 
 1. Cloner le dépôt :
 
 git clone https://github.com/BertrandM22/FigmaV4.git
-cd figmaProjectV5
+
 
 2. Ouvrir le projet :
 Ouvre le fichier index.html dans ton navigateur préféré pour voir le projet.
